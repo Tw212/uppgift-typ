@@ -1,0 +1,14 @@
+C:\Users\Admin\Documents\GitHub\uppgift-typ\obj\Debug\net8.0\uppgift-typ.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Documents\GitHub\uppgift-typ\obj\Debug\net8.0\uppgift-typ.AssemblyInfoInputs.cache
+C:\Users\Admin\Documents\GitHub\uppgift-typ\obj\Debug\net8.0\uppgift-typ.AssemblyInfo.cs
+C:\Users\Admin\Documents\GitHub\uppgift-typ\obj\Debug\net8.0\uppgift-typ.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Documents\GitHub\uppgift-typ\bin\Debug\net8.0\uppgift-typ.exe
+C:\Users\Admin\Documents\GitHub\uppgift-typ\bin\Debug\net8.0\uppgift-typ.deps.json
+C:\Users\Admin\Documents\GitHub\uppgift-typ\bin\Debug\net8.0\uppgift-typ.runtimeconfig.json
+C:\Users\Admin\Documents\GitHub\uppgift-typ\bin\Debug\net8.0\uppgift-typ.dll
+C:\Users\Admin\Documents\GitHub\uppgift-typ\bin\Debug\net8.0\uppgift-typ.pdb
+C:\Users\Admin\Documents\GitHub\uppgift-typ\obj\Debug\net8.0\uppgift-typ.dll
+C:\Users\Admin\Documents\GitHub\uppgift-typ\obj\Debug\net8.0\refint\uppgift-typ.dll
+C:\Users\Admin\Documents\GitHub\uppgift-typ\obj\Debug\net8.0\uppgift-typ.pdb
+C:\Users\Admin\Documents\GitHub\uppgift-typ\obj\Debug\net8.0\uppgift-typ.genruntimeconfig.cache
+C:\Users\Admin\Documents\GitHub\uppgift-typ\obj\Debug\net8.0\ref\uppgift-typ.dll
