@@ -12,3 +12,4 @@ C:\Users\Admin\Documents\GitHub\uppgift-typ\obj\Debug\net8.0\refint\uppgift-typ.
 C:\Users\Admin\Documents\GitHub\uppgift-typ\obj\Debug\net8.0\uppgift-typ.pdb
 C:\Users\Admin\Documents\GitHub\uppgift-typ\obj\Debug\net8.0\uppgift-typ.genruntimeconfig.cache
 C:\Users\Admin\Documents\GitHub\uppgift-typ\obj\Debug\net8.0\ref\uppgift-typ.dll
+C:\Users\Admin\Documents\GitHub\uppgift-typ\obj\Debug\net8.0\uppgift-typ.sourcelink.json
